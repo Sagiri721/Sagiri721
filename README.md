@@ -7,5 +7,5 @@ I learned to code with Java and C++ but I'm also learning about Web Development.
 Mainly program with: Java / C++ / C# / PHP / PYTHON / and now JavaScript!
 <br>
 <br>
-############################################################<br>
+#############################################################<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagiri721&count_private=true&show_icons=true&theme=dracula)
