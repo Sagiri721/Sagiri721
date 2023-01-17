@@ -1,1 +1,1 @@
-![alt text](Novo-Projecto.png)
+![alt text](NovoProjecto.png)
